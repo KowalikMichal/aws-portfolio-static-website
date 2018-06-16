@@ -1,6 +1,6 @@
 module.exports = {
-  siteUrl: `https://your-site-url.amazonaws.com`,
-  contactFormHandlerUrl: `https://your-api-gateway-url.com/with/path`,
+  siteUrl: `https://d2l4qoshj55qgt.cloudfront.net`,
+  contactFormHandlerUrl: `https://ppminsi394.execute-api.eu-west-1.amazonaws.com/PROD/notyMai`,
 
   headTitle: `About me | Put here longer explanation of what this page is about.`,
 
